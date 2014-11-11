@@ -4,4 +4,4 @@ currency-converter-webservice
 Web service for currency-converter API
 
 
-Incubating- Spray, AKKA, Scala.
+Integrate spring project with DI into spray.
